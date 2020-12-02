@@ -3,7 +3,8 @@ Fiat-Crypto: Synthesizing Correct-by-Construction Code for Cryptographic Primiti
 
 Building
 --------
-[![CI (Coq)](https://github.com/mit-plv/fiat-crypto/workflows/CI%20(Coq)/badge.svg)](https://github.com/mit-plv/fiat-crypto/actions?query=workflow%3A%22CI+%28Coq%29%22+branch%3Amaster)
+[![CI (Coq)](https://github.com/mit-plv/fiat-crypto/workflows/CI%20(Coq)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDevkey19%2Ffiat-crypto.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDevkey19%2Ffiat-crypto?ref=badge_shield)
+/badge.svg)](https://github.com/mit-plv/fiat-crypto/actions?query=workflow%3A%22CI+%28Coq%29%22+branch%3Amaster)
 [![CI (Coq, Windows)](https://github.com/mit-plv/fiat-crypto/workflows/CI%20(Coq,%20Windows)/badge.svg)](https://github.com/mit-plv/fiat-crypto/actions?query=workflow%3A%22CI+%28Coq,%20Windows%29%22+branch%3Amaster)
 [![CI (Coq, MacOS)](https://github.com/mit-plv/fiat-crypto/workflows/CI%20(Coq,%20MacOS)/badge.svg)](https://github.com/mit-plv/fiat-crypto/actions?query=workflow%3A%22CI+%28Coq,%20MacOS%29%22+branch%3Amaster)
 
@@ -589,3 +590,7 @@ For `Language.v`, there is a semi-arbitrary split between two files
 - `AbstractInterpretation/Proofs.v`: interp lemmas for the
   AbstractInterpretation pass, and also correctness lemmas that
   combine Wf and interp
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDevkey19%2Ffiat-crypto.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDevkey19%2Ffiat-crypto?ref=badge_large)
